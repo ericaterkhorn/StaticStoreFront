@@ -1,7 +1,7 @@
 /*Common elements*/
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: url(Assets/pexels-henri-guérin-197907.jpg);
+    background-image: url(Assets/pexels-henri-guérin-197907.jpg);
 }
 
 .heading {
